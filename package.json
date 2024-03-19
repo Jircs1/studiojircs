@@ -36,7 +36,7 @@
     "lodash": "^4.17.21",
     "moment-duration-format": "^2.3.2",
     "murmurhash-js": "^1.0.0",
-    "p-queue": "6.6.2",
+    "p-queue": "8.0.1",
     "viem": "^1.16.6"
   },
   "devDependencies": {
